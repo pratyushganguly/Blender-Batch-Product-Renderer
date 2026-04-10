@@ -1,0 +1,30 @@
+# Blender files
+*.blend1
+*.blend2
+*.blend@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Render outputs (don't commit renders to git)
+RENDERS_BATCH/
+renders/
+output/
+*.png
+*.jpg
+*.jpeg
+*.exr
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
